@@ -1,4 +1,4 @@
 - Hi, I’m Het Patel
-- I’m looking into becoming a Computer Science Developer, but haven't decided what language/position to focus on
+- I’m looking into becoming a Computer Science Developer, but haven't decided what language/position to pursue
 - I’m currently learning Java 17
 - How to reach me on my email, hetpatelbusiness1208@gmail.com
